@@ -27,7 +27,7 @@ def compond_interest(P,R,T): #doubt when defined amt(p,t,r) ci is not defined wh
 
 # CI(4000,3,2)
 
-# Type3 :writing code with pow function
+# Type3 :writing code without pow function
 # ** =expontional
 
 # def CI(p,r,t):
